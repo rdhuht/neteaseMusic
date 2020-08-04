@@ -1,0 +1,25 @@
+{
+    "name": "网抑云",
+    "description": "",
+    "dependencies": {
+        "core": "*",
+        "radio": "*",
+        "pxt-sonar": "github:microsoft/pxt-sonar#v0.0.5",
+        "pxt-DHT11_DHT22": "github:alankrantas/pxt-dht11_dht22#v0.0.2",
+        "imbot": "github:pxt-peijing/pxt-mijiabit#0526d0a3f9a8557e67b6a10b372957174663a5f0",
+        "音乐播放测试代码": "pub:31348-26356-74092-11812",
+        "TM1637": "github:makecode-extensions/tm1637#v1.0.0"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "supportedTargets": [
+        "microbit"
+    ],
+    "preferredEditor": "blocksprj"
+}
